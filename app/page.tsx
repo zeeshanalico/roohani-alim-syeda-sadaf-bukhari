@@ -1,10 +1,12 @@
 'use client'
 import Navbar from "./components/NavBar";
 import LandingSection from "./components/LandingSection";
-import logo from './assets/Rohani-Amil.png'
 import Footer from "./components/Footer";
 import InfiniteScrollText from "./components/InfiniteScroll";
 import Image from "next/image";
+
+import Blogwithimage from "./components/Blogwithimage";
+import logo from './assets/Rohani-Amil.png'
 export default function Home() {
   return (
     <div className="">
@@ -12,7 +14,7 @@ export default function Home() {
       <Navbar />
       <InfiniteScrollText />
       <LandingSection />
-      <div className="border border-black">sdfs</div>
+      <Blogwithimage/>
 
       <Footer />
     </div>);

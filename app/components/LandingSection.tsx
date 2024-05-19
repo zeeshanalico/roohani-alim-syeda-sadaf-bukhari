@@ -7,12 +7,24 @@ const LandingSection: React.FC = () => {
     <section className="container mx-auto p-8 flex flex-col md:flex-row">
       {/* Left Side Content */}
       <div className="md:w-3/4 p-4">
-        <h2 className="text-3xl font-semibold mb-4">Welcome to Our Website</h2>
+        <h2 className="text-3xl font-semibold mb-4">Welcome to
+          <span className="text-green-600 transition duration-500 ease-in-out transform hover:scale-110">
+            &nbsp;Rohani Alim Istikhara Center
+          </span>
+        </h2>
         <p className="text-lg text-gray-700">
-          Best Islamic Scholar Rohani “Syed Haroon Shah Bukhari” is online worldwide. He provides you best online Istikhara Wazifa tweet services internationally and locally.
+
+          Best Islamic Scholar Rohani&nbsp;
+          <span className='text-green-500 transition duration-500 ease-in-out transform hover:scale-110'>
+            “Professra Syeda Sadaf Bukhari”
+          </span>
+            &nbsp;
+          is online worldwide. He provides you best online Istikhara Wazifa tweet services internationally and locally.
         </p>
         <p>
-          “Syed Haroon Shah Bukhari” is a real spiritual healer with a Govt of Pakistan issued license.
+        <span className='text-green-500 transition duration-500 ease-in-out transform hover:scale-110'>
+            “Professra Syeda Sadaf Bukhari”
+          </span> is a real spiritual healer with a Govt of Pakistan issued license.
         </p>
         <p>
           He is providing the best Salat-al-Istikharah, Wazifa, Taweezat predictions regarding marriage proposals for you, for your sister, daughter, as well as for anyone you can get exact information about Comming ristha.
@@ -27,7 +39,7 @@ const LandingSection: React.FC = () => {
       </div>
 
       {/* Right Side Recent Links */}
-      <div className="md:w-1/4 p-4 hidden md:block">
+      <div className="md:w-1/4 p-4 hidden md:block md:shadow-lg">
         <h3 className="text-2xl font-semibold mb-4">Recent Links</h3>
         <ul className="">
           {menuData.map((item) => (
@@ -38,9 +50,12 @@ const LandingSection: React.FC = () => {
               {item.subMenu && (
                 <ul className="px-1">
                   {item.subMenu.map((subItem) => (
-                    <Link href={subItem.url} key={subItem.id} passHref className='space-y-2'>
-                      <div className="text-green-500 hover:underline transition duration-300 cursor-pointer">{subItem.label}</div>
-                    </Link>
+                    <div className='py-1'>
+
+                      <Link href={subItem.url} key={subItem.id} passHref>
+                        <div className="text-green-500 hover:underline transition duration-300 cursor-pointer">{subItem.label}</div>
+                      </Link>
+                    </div>
                   ))}
                 </ul>
               )}
