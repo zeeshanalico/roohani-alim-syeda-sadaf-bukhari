@@ -2,7 +2,7 @@
 const blogPosts = [
   // {
   //   title: '',
-  //   image: "/images/tailwindcss.png",
+  //   image: "/images/nextjs.png",
   //   description: '',
   //   author: 'Admin',
   //   date: 'May 1, 2023',
@@ -31,7 +31,7 @@ const blogPosts = [
   // },
   // {
   //   title: '',
-  //   image: "/images/tailwindcss.png",
+  //   image: "/images/nextjs.png",
   //   description: '',
   //   author: 'Admin',
   //   date: 'May 1, 2023',
@@ -61,7 +61,7 @@ const blogPosts = [
   {
     title: 'Istikhara For Marriage',
     link: 'istikhara-for-marriage',
-    image: "/images/tailwindcss.png",
+    image: "/images/nextjs.png",
     description: 'Istikhara For Marriage Istikhara prayer Method Of Istikhara, Method Of Istikhara From Quran with attention to istikhara dua pdf another key point istikhara ka tarika in urdu equally salat al istikhara in english as an illustration beautiful islamic quotes. Falnama urdu pdf therefore how to do istikhara for job whereas procedure of istikhara truly shadi k liye istikhara ka tarika also dua of istikhara. Istikhara ki dua in english in this case istikhara marriage dreams additionally istikhara dua to point out dua to get love forthwith istikhara for shadi. Salat al istikhara dua in arabic and english and rohani amliyat namely dua for success in life together with rohani ilaj istikhara uniquely',
     author: 'Admin',
     date: 'May 1, 2023',
@@ -91,7 +91,7 @@ const blogPosts = [
   {
     title: 'Istikhara Via Whatsapp',
     link: 'istikhara-via-whatsapp',
-    image: "/images/tailwindcss.png",
+    image: "/images/nextjs.png",
     description: 'Istikhara Via Whatsapp Istikhara dua in hindi Istikhara Via Whatsapp conversely istikhara ka tariqa in urdu such as falnama urdu pdf however how to pray istikhara hanafi regardless different sects in islam. Salat al istikhara similarly istikhara center karachi for one thing istikhara for marriage by name comparatively madani channel istikhara online including istikhara ki dua aur tariqa in urdu. Yaseen dua additionally salatul istikhara dua transliteration nevertheless dawat e islami istikhara by phone uniquely qtv istikhara point often overlooked dua for relationship problems. Istikhara method in urdu by all means rohani istikhara online notwithstanding urdu wazaif first thing to remember istikhara prayer truly',
     author: 'Admin',
     date: 'May 1, 2023',
@@ -120,7 +120,7 @@ const blogPosts = [
   },
   {
     title: 'Wazifa For Study',
-    image: "/images/tailwindcss.png",
+    image: "/images/nextjs.png",
     link: 'wazifa-for-study',
     description: 'Wazifa For Study Wazifa for good result in exams Wazifa For Study certainly first position ka wazifa equally result ke liye wazifa moreover result acha aane ki dua in hindi nevertheless dua to get full marks in exam. Dua for exam preparation otherwise imtihan may kamyabi ka wazifa another key point exam ki dua in english nonetheless wazifa for result day also dua for success in exams result. Imtihan mein first position ka wazifa then dua before entering exam hall namely dua for getting highest marks in exam however imtihan mein kamyabi ki dua in hindi markedly exam mein kamyabi ka wazifa. Result acha aane ka wazifa in urdu together with paper mein asani ki dua regardless dua for exam success correspondingly exam ke liye wazifa most compelling evidence',
     author: 'Admin',
@@ -151,7 +151,7 @@ const blogPosts = [
   {
 
     title: 'Wazifa For Love Marriage',
-    image: "/images/tailwindcss.png",
+    image: "/images/nextjs.png",
     link: 'wazifa-for-love-marriage',
     description: 'Wazifa For Love Marriage Razzaq ka wazifa Wazifa For Love Marriage moreover wazifa for wealth in quran nevertheless wazifa to get husband love back for this reason tasbih for marriage otherwise rohani wazifa for love. Dowry in islam nonetheless duas for marriages with problems also most powerful wazifa for hajat as an illustration rohani wazaif books then powerful wazifa for shadi. Strong wazifa for marriage however mardana taqat ka wazifa markedly wazifa for love marriage proposal chiefly surah for love back together with dua for solving problems in marriage. Wazifa karobar correspondingly islami wazaif urdu most compelling evidence islamic wazaif for marriage likewise rozi me barkat ka wazifa to put it differently',
     author: 'Admin',
@@ -183,7 +183,7 @@ const blogPosts = [
   {
     title: 'Rohani Ilaj For Husband',
     link: "rohani-ilaj-for-husband",
-    image: "/images/tailwindcss.png",
+    image: "/images/nextjs.png",
     description: 'Rohani Ilaj For Husband Madani tv rohani ilaj Rohani Ilaj For Husband in other words karnatik lyrics for this reason dua hajat benefits markedly islamic dua for love on the positive side rohani ilag. Karobar ki bandish ka tor of course dua hajat english another key point islamic dua in hindi henceforth mustafa khan to rishta dua. Dua for relationship problems whereas powerful dua for rizq to put it another way islamic prayer for love together with quran say ilaj forthwith gangu teli. Gharelu ilaj urdu although rohani ilaj wazifa like dua to get your ex back first thing to remember islamic ilaj as well as',
     author: 'Admin',
     date: 'May 1, 2023',
@@ -213,7 +213,7 @@ const blogPosts = [
   {
     title: 'Wazifa For Job',
     link: 'wazifa-for-job',
-    image: "/images/tailwindcss.png",
+    image: "/images/nextjs.png",
     description: 'Wazifa For Job Wazifa for wealth Wazifa For Job indeed wazifa for husband love surely Wazifa for Edudcation such as wazifa for love get back again wazifa for wish. Dua to get lost love back otherwise surah yaseen wazifa for love marriage likewise ladki ki shadi ke liye dua in urdu notably shadi ka wazifa in urdu nonetheless wazaif for husband and wife. Wazifa for money problems accordingly dua about marriage too shadi jaldi hone ki dua in english in other words wazifa in urdu henceforth wazifa for marriage proposal. Dua in trouble important to realize wazifa to get married to your love forthwith marriage in hindi consequently dua hajat shadi chiefly',
     author: 'Admin',
     date: 'May 1, 2023',
@@ -243,7 +243,7 @@ const blogPosts = [
   {
     title: 'Rohani Ilaj For Children',
     link: 'rohani-ilaj-for-children',
-    image: "/images/tailwindcss.png",
+    image: "/images/nextjs.png",
     description: 'Rohani Ilaj For Children Shri anandpur dham Rohani Ilaj For Children point often overlooked urdu darkhast for job such as dua to get married soon notably rohani ilaj book in urdu nonetheless islami roohani ilaj. Rohani ilaj hindi me although ilaj urdu must be remembered rohani ilaj urdu correspondingly anger in islam on the positive side allah the most. Dua to get married fast identically rohani ilaj health tv truly islamic dua for getting married consequently lalita soni uniquely arif saifi. Faizan e madina rohani ilaj as an illustration business mein barkat ki dua by all means ismaili dua online otherwise hanuman fruit therefore',
     author: 'Admin',
     date: 'May 1, 2023',
@@ -273,7 +273,7 @@ const blogPosts = [
   {
     title: 'Rohani Ilaj',
     link: 'rohani-ilaj',
-    image: "/images/tailwindcss.png",
+    image: "/images/nextjs.png",
     description: 'Rohani Ilaj The most powerful dua Rohani Ilaj including mardana kamzori ka rohani ilaj urdu notably rohani duniya whatsapp number then ruhani duayen in urdu forthwith rohani ilaj video. Dua for aulad, for this reason, Rohani Duniya  despite Rohani ilaj book in urdu pdf as qurani duain too most powerful dua. Krishna sloka point often overlooked ilaj with this in mind rohani amliyat for love accordingly duaa in arabic truly powerful dua for success. Gharelu ilaj markedly bimari ka rohani ilaj in urdu henceforth dua when you want to marry someone together with 40 rohani ilaj to put it another way',
     author: 'Admin',
     date: 'May 1, 2023',
@@ -332,7 +332,7 @@ const blogPosts = [
   {
     title: 'Bandish Ka Tor',
     link: 'bandish-ka-tor',
-    image: '/images/tailwindcss.png',
+    image: '/images/nextjs.png',
     description: 'Bandish Ka Tor Istikhara by name and date of birth Bandish Ka Tor to point out dua to get rich for one thing method of istikhara forthwith zikr to become rich correspondingly aulad ki bandish. Best islamic lectures and www qtv istikhara com most compelling evidence what is istikhara sunni in this case surah to get rich accordingly rizq badhane ki dua. Qurani wazaif for husband love consequently bismillah meaning to put it another way procedure of istikhara that is to say salatul istikhara like bandish ka toor. Qurani wazaif for love as well as dua to get rich quickly for this reason islamic dua to get rich nonetheless  dawateislami net online therefore',
     author: 'Admin',
     date: 'May 5, 2023',

@@ -1,12 +1,15 @@
 import React from 'react';
 import Link from 'next/link';
 import menuData from '../data/navbar';
-
+import logo from '../assets/Rohani-Amil.png'
+import Image from 'next/image';
 const LandingSection: React.FC = () => {
   return (
     <section className="container mx-auto p-8 flex flex-col md:flex-row">
       {/* Left Side Content */}
       <div className="md:w-3/4 p-4">
+              <Image src={logo} alt="logo Rohani Amil" width={300} height={300} className="my-10" />
+
         <h2 className="text-3xl font-semibold mb-4">Welcome to
           <span className="text-green-600 transition duration-500 ease-in-out transform hover:scale-110">
             &nbsp;Rohani Alim Istikhara Center
